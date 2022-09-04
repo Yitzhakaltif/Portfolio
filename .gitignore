@@ -6,9 +6,9 @@
 .pnp.js
 yarn.lock
 package-lock.json
-# .gitignore
 tailwind.config.js
 postcss.config.js
+.gitignore
 
 # testing
 /coverage
