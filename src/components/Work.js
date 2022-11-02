@@ -1,5 +1,9 @@
 import React from 'react';
 import Chat from '../assets/chat.jpg';
+import Weather from '../assets/Weather.png';
+import Hangman from '../assets/Hangman.png';
+
+
 
 const Work = () => {
   return (
@@ -40,21 +44,16 @@ const Work = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${Chat})` }}
+            style={{ backgroundImage: `url(${Hangman})`, }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Chat Application
+                Hangman Game
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://react-chat-app-61218.web.app/login'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Demo
-                  </button>
-                </a>
-                <a href='https://github.com/Yitzhakaltif/Final-Project-Chat-App'>
+                <a href='https://github.com/Yitzhakaltif/DI_HACKATHON'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -64,21 +63,16 @@ const Work = () => {
           </div>
             {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${Chat})` }}
+            style={{ backgroundImage: `url(${Weather})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Chat Application
+                Simple Weather Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://react-chat-app-61218.web.app/login'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Demo
-                  </button>
-                </a>
-                <a href='https://github.com/Yitzhakaltif/Final-Project-Chat-App'>
+                <a href='https://github.com/Yitzhakaltif/DI_Hackathon2'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -86,76 +80,7 @@ const Work = () => {
               </div>
             </div>
           </div>
-          <div
-            style={{ backgroundImage: `url(${Chat})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
-          >
-            {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Chat Application
-              </span>
-              <div className='pt-8 text-center'>
-                <a href='https://react-chat-app-61218.web.app/login'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Demo
-                  </button>
-                </a>
-                <a href='https://github.com/Yitzhakaltif/Final-Project-Chat-App'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Code
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
-            {/* Grid Item */}
-          <div
-            style={{ backgroundImage: `url(${Chat})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
-          >
-            {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Chat Application
-              </span>
-              <div className='pt-8 text-center'>
-                <a href='https://react-chat-app-61218.web.app/login'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Demo
-                  </button>
-                </a>
-                <a href='https://github.com/Yitzhakaltif/Final-Project-Chat-App'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Code
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
-          <div
-            style={{ backgroundImage: `url(${Chat})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
-          >
-            {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Chat Application
-              </span>
-              <div className='pt-8 text-center'>
-                <a href='https://react-chat-app-61218.web.app/login'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Demo
-                  </button>
-                </a>
-                <a href='https://github.com/Yitzhakaltif/Final-Project-Chat-App'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
-                    Code
-                  </button>
-                </a>
-              </div>
-            </div>
-          </div>
+          {/* MORE WILL COME! */}
         </div>
       </div>
     </div>
