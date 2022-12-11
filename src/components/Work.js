@@ -32,12 +32,12 @@ const Work = () => {
                 React JS Chat Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://react-chat-app-61218.web.app/login'>
+                <a href='https://react-chat-app-b2e3a.web.app/' target="_blank"  rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/Yitzhakaltif/Final-Project-Chat-App'>
+                <a href='https://github.com/Yitzhakaltif/Final-Project-Chat-App' target="_blank"  rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -55,12 +55,12 @@ const Work = () => {
                 Coloring Game
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://yitzhakaltif.github.io/ColoringGame/'>
+                <a href='https://yitzhakaltif.github.io/ColoringGame/' target="_blank"  rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/Yitzhakaltif/ColoringGame'>
+                <a href='https://github.com/Yitzhakaltif/ColoringGame' target="_blank"  rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -78,12 +78,12 @@ const Work = () => {
                 Hangman Game
               </span>
               <div className='pt-8 text-center'>
-              <a href='https://yitzhakaltif.github.io/Hangman/'>
+              <a href='https://yitzhakaltif.github.io/Hangman/' target="_blank"  rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/Yitzhakaltif/DI_HACKATHON'>
+                <a href='https://github.com/Yitzhakaltif/DI_HACKATHON' target="_blank"  rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -101,12 +101,12 @@ const Work = () => {
                 Currency Converter
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://yitzhakaltif.github.io/CurrencyConverter/'>
+                <a href='https://yitzhakaltif.github.io/CurrencyConverter/' target="_blank"  rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/Yitzhakaltif/CurrencyConverter'>
+                <a href='https://github.com/Yitzhakaltif/CurrencyConverter' target="_blank"  rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -124,12 +124,12 @@ const Work = () => {
                 To-Do List
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://yitzhakaltif.github.io/Todo-List/'>
+                <a href='https://yitzhakaltif.github.io/Todo-List/' target="_blank"  rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/Yitzhakaltif/Todo-List'>
+                <a href='https://github.com/Yitzhakaltif/Todo-List' target="_blank"  rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -147,12 +147,12 @@ const Work = () => {
                 Quotes Generator
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://quotessgeneratorr.netlify.app/'>
+                <a href='https://quotessgeneratorr.netlify.app/' target="_blank"  rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://github.com/Yitzhakaltif/Quote-Generator'>
+                <a href='https://github.com/Yitzhakaltif/Quote-Generator' target="_blank"  rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -171,7 +171,7 @@ const Work = () => {
                 Simple Weather Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://github.com/Yitzhakaltif/DI_Hackathon2'>
+                <a href='https://github.com/Yitzhakaltif/DI_Hackathon2' target="_blank"  rel="noreferrer">
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>

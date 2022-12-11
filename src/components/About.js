@@ -17,8 +17,7 @@ const About = () => {
               <p>Hi. I'm Yizhak! Please take a look around. Hope you Enjoy your Valued visit!</p>
             </div>
             <div>
-              <p>I am a Full-Stack JavaScript Developer, with experience from the Intensive JavaScript and React Bootcamp at <u><a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjQm6rsyfr5AhU9jWgJHfDBBQUYABAAGgJ3Zg&ohost=www.google.com&cid=CAESbOD2rnLbu6p0UZhI3dd2TKgWDVLPL1DIlCYFk_8SKoi1QJZk9nD4AqCh9wSkN4haKKVcktDsDTEkvCYWxC02gifAOV5B9rYkf7lgZmnLtJi_fblBUt71e7HDz6CkQp3YOlpQSHbgZ_j-1sLuMA&sig=AOD64_3pMVgHp8dtbsYzKABnsqHwqxxQnw&q&adurl&ved=2ahUKEwisraPsyfr5AhXZ0YUKHd_PBKgQ0Qx6BAgDEAE">Developers Institute</a></u>. What would you do if you had
-              a software expert available at your fingertips?</p>  
+              <p>I am a Full-Stack JavaScript Developer, with experience from the Intensive JavaScript and React Bootcamp at <u><a href="https://developers.institute/en/" target="_blank">Developers Institute</a></u>. </p>  
             </div>
           </div>
       </div>
